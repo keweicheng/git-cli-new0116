@@ -20,3 +20,14 @@ hello ~~hello~~ 刪除線
 ---
 
 Hello `hellohello`
+
+```
+hello  
+123  
+456  
+789  
+```
+
+```python
+def hello():
+    print('123456')
