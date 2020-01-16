@@ -31,5 +31,7 @@ hello
 ```python
 def hello():
     print('123456')
-
+hello()
+```
+---
 ![](./ntub.png)
