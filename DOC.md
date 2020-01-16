@@ -9,4 +9,4 @@
 hello *hello* 斜體
 hello **hello** 粗體
 hello ***hello*** 斜體 + 粗體
-hello __hello__ 刪除線
+hello ~~hello~~ 刪除線
