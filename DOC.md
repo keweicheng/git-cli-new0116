@@ -11,3 +11,12 @@ hello *hello* 斜體
 hello **hello** 粗體  
 hello ***hello*** 斜體 + 粗體  
 hello ~~hello~~ 刪除線  
+
+---
+
+<https://gogle.com>
+[google](https://gogle.com)
+
+---
+
+Hello `hellohello`
